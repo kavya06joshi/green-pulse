@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "eco-platform-28fd0"
+  },
+  "targets": {
+    "eco-platform-28fd0": {
+      "hosting": {
+        "oil-good-deeds": [
+          "oil-good-deeds-28fd0"
+        ]
+      }
+    }
+  }
+}

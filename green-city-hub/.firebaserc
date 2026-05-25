@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "eco-platform-28fd0"
+  },
+  "targets": {
+    "eco-platform-28fd0": {
+      "hosting": {
+        "green-city-hub": [
+          "green-city-hub-28fd0"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "eco-platform-28fd0"
+  },
+  "targets": {
+    "eco-platform-28fd0": {
+      "hosting": {
+        "waste-exchange-nexus": [
+          "waste-exchange-nexus-28fd0"
+        ]
+      }
+    }
+  }
+}
