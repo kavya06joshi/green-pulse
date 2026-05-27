@@ -3,7 +3,7 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBsNW5--WjV_fjLEPhSXVGknZai5-FLYA0",
+  apiKey: "bla bla bla",
   authDomain: "eco-platform-28fd0.firebaseapp.com",
   projectId: "eco-platform-28fd0",
   storageBucket: "eco-platform-28fd0.firebasestorage.app",
